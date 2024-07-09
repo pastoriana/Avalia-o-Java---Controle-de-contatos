@@ -46,7 +46,7 @@ JDK: 17+
 Maven: 3.6+
 Passos para execução
 Clonar o repositório:
-git clone https://github.com/pastoriana/AvaliacaoAPIRest.git
+git clone https://github.com/pastoriana/Avalia-o-Java---Controle-de-contatos.git
 cd AvaliacaoAPIRest
 
 Compilar e rodar a aplicação:
